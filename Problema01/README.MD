@@ -10,7 +10,5 @@ Desde la carpeta raíz del repositorio:
 dotnet run --project Problema01
 ```
 
-## Evidencia
-Ejecuta el programa y guarda la captura de consola como `evidencias/problema01.png`.
-
+![Salida](/Problema01/Evidencias/Problema01.png)
 > **Nota:** `evidencias/salida.png
