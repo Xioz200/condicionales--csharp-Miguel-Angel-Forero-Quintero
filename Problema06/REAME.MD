@@ -1,4 +1,4 @@
-# Problema 05. Numero Mayor 
+# Problema 06. Numero Mayor 
 
 **Estructura elegida:**  if - else if.
 
